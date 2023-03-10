@@ -1,0 +1,52 @@
+.inputData {
+    /* border: 1px solid black; */
+    height: 480px;
+    width: 350px;
+    margin: auto;
+    margin-top: 4%;
+    background-color: rgb(6, 130, 130);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.inputFeild {
+    height: 50px;
+    width: 70%;
+    font-size: 30px;
+    padding: 5px;
+    margin-top: 5%;
+    border-radius: 20px;
+}
+
+
+/* 
+.wave-one {
+    opacity: 0.3;
+    position: absolute;
+    top: 120px;
+    left: 50%;
+    background-color: white;
+    width: 50rem;
+    height: 50rem;
+    margin-left: -25rem;
+    margin-top: -20rem;
+    transform-origin: 50% 48%;
+    border-radius: 43%;
+    animation: drift 3000ms infinite linear;
+    z-index: 1;
+}
+
+.wave-three {
+    animation: drift 5000ms infinite linear;
+    z-index: 2 !important;
+    opacity: 0.2;
+}
+
+.wave-two {
+    animation: drift 5000ms infinite linear;
+    opacity: 0.1;
+    z-index: 3 !important;
+} */
